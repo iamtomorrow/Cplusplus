@@ -11,4 +11,4 @@ int main ()                   // funtion main
 
    return 0;                  // ends the main function
 
-}                             //} curly brackets
+}                             //} curly brackets in the end
