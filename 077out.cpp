@@ -1,4 +1,4 @@
-//Polymophism
+//Polymorphism
 
 #include <iostream>
 
