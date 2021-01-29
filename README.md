@@ -1,2 +1,2 @@
 # learningcpp
-This is repository that contains all I am learning with C++.
+Cpp, derivated from C language.
